@@ -6,3 +6,7 @@ Program uses object oriented programming from Revit API to gather data from obje
 Then it creates a new docx file with two types of wall types presentation along with wall materials and their respective widths.
 
 This type of use saves many hours of architects manual work and adds to Revit base functionality of Building Information Modeling.
+
+
+script.py <- part of the PyRevit custom toolbar. This file executes an executable that works with docx library for python
+main.py <- base for a second step executable that is opened at the end of script.py after the data is collected. This file works with docx library and the data to create a visually coherent list of walls and their properties.
