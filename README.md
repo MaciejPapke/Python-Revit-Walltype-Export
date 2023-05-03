@@ -1,4 +1,5 @@
-# Python-Revit-Walltype-Export
+# Walltype-Export-Autodesk-Revit-API 
+
 Export revit walltypes to a docx list
 Program is made for architects to automize the process of creating wall type lists of the project.
 It uses Autodesk Revit API and a Revit addon PyRevit.
